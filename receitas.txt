@@ -1,2 +1,3 @@
 Receita 1: Brigadeiro
 Receita 2: Beijinho
+Receita 3: Bolo de chocolate.
