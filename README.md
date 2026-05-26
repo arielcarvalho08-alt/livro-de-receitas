@@ -10,4 +10,4 @@ Este é um projeto focado em reunir as melhores receitas culinárias desenvolvid
 2. Crie uma **Branch** com o nome da receita.
 3. Adicione a receita no arquivo `receitas.txt`.
 4. Faça o commit usando `Fixes #numero_da_issue`.
-5. Abra um **Pull Request** para revisão!
+5. Abra um **Pull Request** para revisão! 
